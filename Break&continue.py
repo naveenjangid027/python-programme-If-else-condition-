@@ -104,3 +104,17 @@ num1 = input(num1)
 num2 = input(num2)
 
 
+n = 6
+fact = 1 
+i = 1
+while i<=n:
+fact *= i
+i += 1 
+print("factorial = " , fact)
+a = 10
+b = 20
+print(a+b)
+num1 = input(num1)]
+
+
+
